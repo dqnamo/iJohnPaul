@@ -1,8 +1,8 @@
 ```ruby
+# 👨🏽‍💻About me
 @me = {
-  # 👨🏽‍💻About me
   age: 23,
-  Nationality: 'Irish/Indian', # 🇮🇪🇮🇳  
+  Nationality: 'Irish/Indian' # 🇮🇪🇮🇳  
 }
 
 my_languages = ['ruby','javascript','java', 'swift', 'python'] # Primarily Ruby 💎
