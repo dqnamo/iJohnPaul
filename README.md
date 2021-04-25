@@ -5,8 +5,11 @@
   Nationality: 'Irish/Indian', # 🇮🇪🇮🇳  
 }
 
-my_languages = ['ruby','javascript','java']
+my_languages = ['ruby','javascript','java', 'swift', 'python'] # Primarily Ruby 💎
 my_frameworks = ['rails','react']
+
+puts 'Hello world, my name is John Paul, I am a #{@me[:age]} year old software engineer.' 
+puts 'I primarily work with #{my_languages.first} and #{my_frameworks.first}.'
 ```
 <!--
 **iJohnPaul/iJohnPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
