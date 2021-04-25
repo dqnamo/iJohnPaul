@@ -1,3 +1,4 @@
+<img width="920" alt="ijohnpaul rb" src="https://user-images.githubusercontent.com/25507937/115991354-d2dd7f00-a5bf-11eb-912f-df21928f7ccf.png">
 ```ruby
 # 👨🏽‍💻About me
 @me = {
