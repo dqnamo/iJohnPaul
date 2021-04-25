@@ -6,6 +6,7 @@
   
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijohnpaul)](https://github.com/ijohnpaul/github-readme-stats)
 
 <!--
 **iJohnPaul/iJohnPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
