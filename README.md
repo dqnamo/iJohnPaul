@@ -1,14 +1,12 @@
 ```ruby
 @me = {
-
   # 👨🏽‍💻About me
   age: 23,
-  Nationality: 'Irish/Indian', # 🇮🇪🇮🇳
-  
-  
-  
-  
+  Nationality: 'Irish/Indian', # 🇮🇪🇮🇳  
 }
+
+my_languages = ['ruby','javascript','java']
+my_frameworks = ['rails','react']
 ```
 <!--
 **iJohnPaul/iJohnPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
