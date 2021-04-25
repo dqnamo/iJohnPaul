@@ -1,4 +1,4 @@
-<img width="920" alt="ijohnpaul rb-2" src="https://user-images.githubusercontent.com/25507937/115991386-fef90000-a5bf-11eb-934d-87a5676042a8.png">
+<img width="920" alt="ijohnpaul rb-4" src="https://user-images.githubusercontent.com/25507937/115991412-2d76db00-a5c0-11eb-99c9-783e78196f25.png">
 <!--
 ```ruby
 # 👨🏽‍💻About me
