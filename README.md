@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```ruby
+@me = {
+  age: 23,
+  
+}
+```
+
 <!--
 **iJohnPaul/iJohnPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
